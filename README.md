@@ -17,12 +17,7 @@ An end‑to‑end regression pipeline to predict residential homestay prices usi
 - [⚙️ Installation & Setup](#️-installation--setup)  
 - [🚀 Usage](#-usage)  
 - [📈 EDA & Modeling Workflow](#-eda--modeling-workflow)  
-- [🎯 Results & Evaluation](#-results--evaluation)  
-- [💡 Future Improvements](#-future-improvements)  
-- [🤝 Contributing](#-contributing)  
-- [📄 License](#-license)  
-- [✉️ Contact](#️-contact)  
-
+- [🎯 Results & Evaluation](#-results--evaluation)
 ---
 
 ## 🔍 Project Objective
