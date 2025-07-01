@@ -129,37 +129,3 @@ MSE: <value>
 R²: <value>
 
 See the notebook for full metrics, residual plots, and visualizations.
-
-##💡 Future Improvements
-Experiment with more complex regressors (e.g., Random Forest, XGBoost)
-
-Feature engineering: location encoding, text features (reviews)
-
-Hyperparameter tuning with GridSearchCV
-
-Deployment as a REST API or Streamlit dashboard
-
-##🤝 Contributing
-Contributions are welcome!
-
-Fork the repository
-
-Create a branch: git checkout -b feature/YourFeature
-
-Commit changes: git commit -m "Add YourFeature"
-
-Push: git push origin feature/YourFeature
-
-Open a Pull Request
-
-📄 License
-This project is licensed under the MIT License. See LICENSE for details.
-
-✉️ Contact
-Your Name
-
-GitHub: @your-username
-
-Email: your.email@example.com
-
-“Turning data into insights—and insights into action.”
