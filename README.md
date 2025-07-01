@@ -65,3 +65,101 @@ Key goals:
 
 ## 📂 Repository Structure
 
+📦 homestay-price-prediction
+┣ 📜 End to End Project (1) (1).ipynb # Main analysis & modeling notebook
+┣ 📜 Air_BNB.xlsx # Raw data file
+┣ 📜 requirements.txt # Python dependencies
+┣ 📜 README.md # Project overview
+┗ 📜 LICENSE # License information
+
+
+## ⚙️ Installation & Setup
+
+1. **Clone the repo**  
+   ```bash
+   git clone https://github.com/your-username/homestay-price-prediction.git
+   cd homestay-price-prediction
+
+2. **Create & activate virtual environment**
+   python3 -m venv venv
+   source venv/bin/activate   # Windows: venv\Scripts\activate
+
+3. **Install dependencies**
+   pip install -r requirements.txt
+
+##🚀 Usage
+1. **Launch Jupyter Notebook**
+    jupyter notebook
+2. **Open Homestay Price Pridiction.ipynb**
+
+3. **Run all cells to reproduce the data cleaning, EDA, and Linear Regression modeling steps.**
+
+##📈 EDA & Modeling Workflow
+Import Data
+
+Null Value Treatment
+
+Outlier Detection & Treatment
+
+Mean-based vs. median-based capping
+
+Feature Distribution Analysis
+
+Train–Test Split
+
+Linear Regression Model
+
+##🎯 Results & Evaluation
+Baseline (no outlier treatment):
+
+MSE: <value>
+
+R²: <value>
+
+Mean-based Outlier Treatment:
+
+MSE: <value>
+
+R²: <value>
+
+Median-based Outlier Treatment:
+
+MSE: <value>
+
+R²: <value>
+
+See the notebook for full metrics, residual plots, and visualizations.
+
+##💡 Future Improvements
+Experiment with more complex regressors (e.g., Random Forest, XGBoost)
+
+Feature engineering: location encoding, text features (reviews)
+
+Hyperparameter tuning with GridSearchCV
+
+Deployment as a REST API or Streamlit dashboard
+
+##🤝 Contributing
+Contributions are welcome!
+
+Fork the repository
+
+Create a branch: git checkout -b feature/YourFeature
+
+Commit changes: git commit -m "Add YourFeature"
+
+Push: git push origin feature/YourFeature
+
+Open a Pull Request
+
+📄 License
+This project is licensed under the MIT License. See LICENSE for details.
+
+✉️ Contact
+Your Name
+
+GitHub: @your-username
+
+Email: your.email@example.com
+
+“Turning data into insights—and insights into action.”
